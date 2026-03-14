@@ -1,2 +1,2 @@
 greeting:
-  message: "Hello from application-prod.yml"
+  message: "Hello from gh-simple-spring application-prod.yml"
